@@ -5,8 +5,14 @@ A collection of notes I take and assignments (or projects) I work on while takin
 In-progress:
 - CSE 373 Analysis of Algorithms
 - M. Lutz *Programming Python*
+- MIT 3.091 Introduction to Solid-State Chemistry
 
 To-do:
 - B. Kernighan *The C Programming Language*
 
 Completed:
+Math
+Physics
+Biology
+Chemistry
+Computer (hardware, software)
