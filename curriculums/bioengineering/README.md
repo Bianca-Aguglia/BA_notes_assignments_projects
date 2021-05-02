@@ -18,10 +18,22 @@ The list above doesn't make a distinction between Bioengineering (BE) and Biomed
 3. [Duke Biomedical Engineering](https://bme.duke.edu/) in Durham, NC (BME)
 4. [MIT Biological Engineering](https://be.mit.edu/) in Cambridge, MA (BE)
 5. [UC San Diego Jacobs School of Engineering - Bioengineering](https://be.ucsd.edu/) in San Diego, CA (BE)
-6. [Stanford Bioengineering - Schools of Engineering and Medicine](https://bioengineering.stanford.edu/) in 
-- [UC Berkeley Bioengineering](https://bioeng.berkeley.edu/undergrad/program)
+6. [Stanford Bioengineering - Schools of Engineering and Medicine](https://bioengineering.stanford.edu/) in Stanford, CA (BE)
+7. [UC Berkeley Bioengineering](https://bioeng.berkeley.edu/undergrad/program) in Berkeley, CA (BE)
+8. [Penn Engineering](https://www.seas.upenn.edu/) in Philadelphia, PA (BE)
+9. [Columbia Biomedical Engineering](https://www.bme.columbia.edu/) in New York, NY (BME)
+10. [BU College of Engineering - Biomedical Engineering](https://www.bu.edu/eng/departments/bme/) in Boston, MA (BME)
 
-Using inspiration from these schools, the curriculum I put together for myself is:
 
+For the top 7 schools on this list, I put together a spreadsheet with more details about their programs, things like required courses, areas of focus, and faculty. The spreadsheet is available as a [google sheet](https://docs.google.com/spreadsheets/d/19XJBxWpNoHyKtNbK_uhRAFbzbC6fUTp7zATc5vEwX1Y/edit?usp=sharing)
 
-Test link to [map](https://www.google.com/maps/d/u/0/edit?mid=17kfqxO6S5JVDTJeWdNMP0fXiiu76niNE&usp=sharing)
+Using inspiration from these schools, I started putting together for myself a curriculum based on MIT courses (since many of them have materials available online). The curriculum I have so far is:
+- 5.111 Principles of Chemical Science
+- 5.112 Principles of Chemical Science
+- 3.091 Introduction to Solid State Chemistry
+- 7.012 Introductory Biology
+- 18.01 Single Variable Calculus
+- 18.02 Mutivariable Calculus
+- 8.01 Classical Mechanics
+- 8.02 Physics II: Electricity and Electromagnetism
+
