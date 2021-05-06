@@ -3,11 +3,29 @@
 A collection of notes I take and assignments (or projects) I work on while taking various classes or studying various topics (with a focus on computer science, machine learning, bioinformatics, and bioengineering).
 
 In-progress:
+- MIT 5.111 Principles of Chemical Science
+    - resources
+        - [MIT OpenCourseWare material](https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/index.htm)
+        - [YouTube MIT 5.111 2014 playlist](https://www.youtube.com/watch?v=YkYeYhXUeEE&list=PLUl4u3cNGP63LOmB3_O0xbgZVZibxj4rb)
+        - [Textbook: *Chemical Principles: The Quest for Insight (5th ed)*](https://archive.org/details/ChemicalPrinciplesTheQuestForInsighthttps://archive.org/details/ChemicalPrinciplesTheQuestForInsight) (free copy on archive.org)
+- MIT 18.01 Single Variable Calculus
+    - resources
+        - [MIT OpenCourseWare material](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+        - [YouTube MIT 18.01 2010 playlist](https://www.youtube.com/watch?v=2y4tCiWbVRI&list=PL21BCE50ABFF029F1)
+        - [Textbook: *Calculus* by G.Strang](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/index.htm) (free copy on MIT OpenCourseWare)
+- MIT 7.01 SC Fundamentals of Biology
+    - resources
+        - [MIT OpenCourseWare material]()
+        - [YouTube MIT 7.01SC 2011 playlist](https://www.youtube.com/watch?v=TnpCMgtDPgk&list=PLF83B8D8C87426E44)
+        - Textbook: *Biology (9th ed) (hard copy bought on Amazon; older editions available for online reading on archive.org)
+        
+
 - CSE 373 Analysis of Algorithms
 - M. Lutz *Programming Python*
-- MIT 3.091 Introduction to Solid-State Chemistry
+
 
 To-do:
+- MIT 3.091 Introduction to Solid-State Chemistry
 - B. Kernighan *The C Programming Language*
 
 Completed:

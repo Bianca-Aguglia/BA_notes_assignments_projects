@@ -28,12 +28,17 @@ The list above doesn't make a distinction between Bioengineering (BE) and Biomed
 For the top 7 schools on this list, I put together a spreadsheet with more details about their programs, things like required courses, areas of focus, and faculty. The spreadsheet is available as a [google sheet](https://docs.google.com/spreadsheets/d/19XJBxWpNoHyKtNbK_uhRAFbzbC6fUTp7zATc5vEwX1Y/edit?usp=sharing)
 
 Using inspiration from these schools, I started putting together for myself a curriculum based on MIT courses (since many of them have materials available online). The curriculum I have so far is:
-- 5.111 Principles of Chemical Science
-- 5.112 Principles of Chemical Science
-- 3.091 Introduction to Solid State Chemistry
-- 7.012 Introductory Biology
-- 18.01 Single Variable Calculus
-- 18.02 Mutivariable Calculus
-- 8.01 Classical Mechanics
-- 8.02 Physics II: Electricity and Electromagnetism
+    - Period 1:
+        - 5.111 Principles of Chemical Science
+        - 7.012 Introductory Biology
+        - 18.01 Single Variable Calculus
+        - 8.01 Classical Mechanics
+        - 20.109 Laboratory Fundamentals in Biological Engineering (2010)
+        - 6.01SC Introduction to Electrical Engineering and Computer Science I
+    - Period 2:
+        - 5.112 Principles of Chemical Science (if not too much overlap with 5.111)
+        - 3.091 Introduction to Solid State Chemistry (if not too much overlap with 5.111)
+        - 18.02 Mutivariable Calculus
+        - 8.02 Physics II: Electricity and Electromagnetism
+
 
