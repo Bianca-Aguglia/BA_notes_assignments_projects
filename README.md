@@ -21,13 +21,17 @@ In-progress:
         - [YouTube MIT 5.111 2014 playlist](https://www.youtube.com/watch?v=YkYeYhXUeEE&list=PLUl4u3cNGP63LOmB3_O0xbgZVZibxj4rb)
         - [Textbook: *Chemical Principles: The Quest for Insight (5th ed)*](https://archive.org/details/ChemicalPrinciplesTheQuestForInsighthttps://archive.org/details/ChemicalPrinciplesTheQuestForInsight) (free copy on archive.org)
 
-- MIT 7.01 SC Fundamentals of Biology
+- MIT 7.01SC Fundamentals of Biology
     - resources
         - [MIT OpenCourseWare material]()
         - [YouTube MIT 7.01SC 2011 playlist](https://www.youtube.com/watch?v=TnpCMgtDPgk&list=PLF83B8D8C87426E44)
         - Textbook: *Biology (9th ed)* (hard copy bought on Amazon; older editions available for online reading on archive.org)
         
-
+- Basic Linux and Shell (linked to from Xiaole Shirley Liu's course [*STAT 115: Introduction to Computational Biology and Bioinformatics*](https://canvas.harvard.edu/courses/49497)
+    - resources
+        - [LinuxCommand.org](http://linuxcommand.org)
+          
+ 
 - CSE 373 Analysis of Algorithms
 - M. Lutz *Programming Python*
 
