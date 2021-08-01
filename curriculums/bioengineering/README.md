@@ -1,6 +1,6 @@
 # Bioengineering
 
-According to the [2022 U.S.News and World Report rankings](https://www.usnews.com/best-graduate-schools/top-engineering-schools/biomedical-rankings), the top bioengineering schools in the US are:
+According to the [2022 U.S.News and World Report rankings](https://www.usnews.com/best-graduate-schools/top-engineering-schools/biomedical-rankings), the top bioengineering schools in the US are (the first number shows the list number, the number in parantheses shows the school rank, with some schools being tied in rank):
 1. (1) Johns Hopkins University (Whiting)
 2. (2) Emory University - Georgia Institute of Technology
 3. (3) Duke University (Pratt)  

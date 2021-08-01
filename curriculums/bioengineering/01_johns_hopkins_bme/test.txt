@@ -1,0 +1,290 @@
+510.311 Structure	of	Materials
+510.312 Thermodynamics/Materials
+510.313 Mechanical	Properties	of	Materials
+510.314 Electronic	Properties	of	Materials
+510.315 Physical	Chemistry	of	Materials	II
+510.316 Biomaterials	I
+510.403 Materials	Characterization
+510.407 Biomaterials	II:	Host	response	and	biomaterials	application
+510.415 The	Chemistry	of	Materials	Synthesis
+510.421 Nanoparticles
+510.422 Micro	and	Nano	Structured	Materials	&	Devices
+510.426 Biomolecular	Materials	I-	Soluble	Proteins	and	Amphiphiles
+510.430 Biomaterials	Lab
+510.435 Mechanical	Properties	of	Biomaterials
+510.442 Nanomaterials	Lab
+510.606 Polymer	Chemistry	&	Biology
+520.315 Introduction	to	Bio-Inspired	Processing	of	Audio-Visual	Signals
+520.340 Introduction	to	Mechatronics
+520.349 Microprocessor	Lab	I
+520.353 Control	Systems
+520.372 Programmable	Device	Lab
+520.385 Signals,	Systems	and	Machine	Learning
+520.401 Basic	Communication
+520.407 Introduction	to	the	Physics	of	Electronic	Devices
+520.414 Image	Processing	&	Analysis	I
+520.415 Image	Processing	&	Analysis	II
+520.417 Computation	for	Engineers
+520.424 FPGA	Synthesis	Lab
+Course	
+Number Course	Name
+Biomedical	
+Data	
+Science
+Imaging &
+Medical
+Devices
+Computational	
+Medicine
+Immuno-	
+engineering
+Genomics	
+&	Systems	
+Biology
+Neuro-	
+engineering
+Translational	
+Cell	&	Tissue	
+Engineering
+520.425 FPGA	Senior	Projects	Laboratory
+520.427 Design	of	Biomedical	Instruments	and	Systems
+520.432 Medical	Imaging	Systems
+520.433 Medical	Image	Analysis
+520.435 Digital	Signal	Processing
+520.447 Information	Theory
+520.448 Electronics	Design	Laboratory
+520.450 Advanced	Micro-Processor	Lab
+520.453 Advanced	ECE	Engineering	Design	Team
+520.454 Control	Systems	Design
+520.465 Digital	Communications	I
+520.473 Magnetic	Resonance	in	Medicine
+520.483 Bio-Photonics	Laboratory
+520.491 CAD	Design	of	Digital	VLSI	Systems	I
+520.492 Mixed-Mode	VLSI	Systems
+520.495 Microfabrication	Laboratory
+520.601 Introduction	to	Linear	Systems	Theory
+520.621 Introduction	to	Nonlinear	Systems
+520.631 Ultrasound	and	Photoacoustic	Beamforming
+520.636 Feedback	Control	of	Signaling	Pathways
+520.646 Wavelets	&	Filter	Banks
+520.651 Random	Signal	Analysis
+520.673 Seminar:	Medical	Image	Analysis
+530.327 Introduction	to	Fluid	Mechanics
+530.381 Engineering	Design	Process
+530.343 Design	&	Analysis	of	Dynamical	Systems
+530.410 Biomechanics	of	the	Cell
+530.414 Computer-Aided	Design
+Course	
+Number Course	Name
+Biomedical	
+Data	
+Science
+Imaging &
+Medical
+Devices
+Computational	
+Medicine
+Immuno-	
+engineering
+Genomics	
+&	Systems	
+Biology
+Neuro-	
+engineering
+Translational	
+Cell	&	Tissue	
+Engineering
+530.420 Robot	Sensors	and	Actuators
+530.421 Mechatronics
+530.426 Biofluid	Mechanics
+530.436 Bioinspired	Science	and	Technology
+530.441 Biophotonics
+530.445 Introduction	to	Biomechanics
+530.446 Experimental	Methods	in	Biomechanics
+530.448 Biosolid	Mechanics
+530.646 Robot	Devices,	Kinematics,	Dynamics,	and	Control
+530.672 Biosensing	&	BioMEMS
+530.691 Haptic	Interface	Design	for	Human-Robot	Interaction
+540.301 Kinetic	Processes
+540.303 Transport	Phenomena	I
+540.304 Transport	Phenomena	II
+540.306 Chemical	&	Biomolecular	Separations
+540.400 Project	in	Design:	Pharmacokinetics
+540.402 Metabolic	Systems	Biotechnology
+540.403 Colloids	and	Nanoparticles
+540.405 The	Design	of	Biomolecular	Systems
+540.409 Dynamic	Modeling	and	Control
+540.414 Computational	Protein	Structure	Prediction	and	Design
+540.421 Project	in	Design:	Pharmacodynamics
+540.422 Introduction	to	Polymeric	Materials
+540.428 Supramolecular	Materials	and	Nanomedicine
+540.437 Application	of	Moleculare	Evolution	Biotechnology
+540.440 Micro/Nanotechnology:	The	Science	and	Eng	of	Small	Structures
+540.465 Engineering	Principles	of	Drug	Delivery
+540.638 Advanced	Topics	in	Pharmacokinetics	and	Pharmacodynamics
+Course	
+Number Course	Name
+Biomedical	
+Data	
+Science
+Imaging &
+Medical
+Devices
+Computational	
+Medicine
+Immuno-	
+engineering
+Genomics	
+&	Systems	
+Biology
+Neuro-	
+engineering
+Translational	
+Cell	&	Tissue	
+Engineering
+553.361 Introduction	to	Optimization
+553.362 Optimization	II
+553.371 Cryptology	and	Coding
+553.386 Scientific	Computing:	Differential	Equations
+553.391 Dynamical	Systems
+553.400 Mathematical	Modeling	and	Consulting
+553.401 Introduction	to	Research
+553.413 Applied	Statistics	and	Data	Analysis
+553.420 Introduction	to	Probability
+553.426 Introduction	to	Stochastic	Processes
+553.430 Introduction	to	Statistics
+553.433 Monte	Carlo	Methods
+553.436 Data	Mining
+553.450 Computational	Molecular	Medicine
+553.463 Network	Models	in	Operations	Research
+553.467 Deep	Learning
+553.472 Graph	Theory
+553.492 Mathematical	Biology
+553.493 Mathematical	Image	Analysis
+553.630 Statistical	Theory
+553.720 Probability	Theory	I
+553.721 Probability	Theory	II
+553.730 Statistical	Theory	I
+553.731 Statistical	Theory	II
+553.761 Nonlinear	Optimization	I
+553.762 Nonlinear	Optimization	II
+580.418 Principles	of	Pulmonary	Physiology
+580.430 Systems	Pharmacology	&	Personalized	Medicine
+Course	
+Number Course	Name
+Biomedical	
+Data	
+Science
+Imaging &
+Medical
+Devices
+Computational	
+Medicine
+Immuno-	
+engineering
+Genomics	
+&	Systems	
+Biology
+Neuro-	
+engineering
+Translational	
+Cell	&	Tissue	
+Engineering
+580.431 Introduction	to	Computational	Medicine	I
+580.435 Applied	Bioelectrical	Engineering	I
+580.436 Applied	Bioelectrical	Engineering	II
+580.437 Neuro	Data	Design	I
+580.438 Neuro	Data	Design	II
+580.439 Models	of	the	Neuron
+580.441 Cellular	Engineering
+580.442 Tissue	Engineering
+580.444 Biomedical	Applications	of	Glycoengineering
+580.446 Physical	Epigenetics
+580.447 Computational	Stem	Cell	Biology
+580.451-2 Cell	and	Tissue	Engineering	Lab
+580.454 Methods	in	Nucleic	Acid	Sequencing
+580.456 Introduction	to	Rehabilitation	Engineering
+580.457 Rehabilitation	Engineering	Design	Lab
+580.462 Representations	of	Choice
+580.468 The	Art	of	Data	Science
+580.471 Principles	of	Design	of	BME	Instrumentation
+580.473 Modern	Biomedical	Imaging	Instrumentation	and	Techniques
+580.479 X-ray	Imaging	and	Computed	Tomography
+580.480 Precision	Care	Medicine	I
+580.481 Precision	Care	Medicine	II
+580.488 Foundations	of	Computational	Biology	&	Bioinformatics
+580.491 Learning	Theory
+580.493 Imaging	Instrumentation
+580.494 Build	an	Imager
+580.571 Honors	Biomedical	Instrumentation
+580.625 Structure	and	Function	of	the	Auditory	and	Vestibular	Systems
+Course	
+Number Course	Name
+Biomedical	
+Data	
+Science
+Imaging &
+Medical
+Devices
+Computational	
+Medicine
+Immuno-	
+engineering
+Genomics	
+&	Systems	
+Biology
+Neuro-	
+engineering
+Translational	
+Cell	&	Tissue	
+Engineering
+580.630 Theoretical	Neuroscience
+580.643 Advanced	Orthopaedic	Tissue	Engineering
+580.646 Molecular	Immunoengineering
+580.678 Biomedical	Photonics
+580.694 Statistical	Connectomics
+580.740 Surgery	for	Engineers
+601.315 Databases
+601.318 Operating	Systems
+601.320 Parallel	Programming
+601.350 Introduction	to	Genomic	Research
+601.402 Digital	Health	and	Biomedical	Informatics
+601.433 Introduction	to	Algorithms
+601.443 Security	and	Privacy	Computing
+601.447 Computational	Genomics:	Sequences
+601.448 Computational	Genomics:	Data	Analysis
+601.454 Augmented	Reality
+601.455 Computer	Integrated	Surgery	I
+601.456 Computer	Integrated	Surgery	II
+601.457 Computer	Graphics
+601.461 Computer	Vision
+601.463 Algorithms	for	Sensor-Based	Robotics
+601.464 Artificial	Intelligence
+601.465 Natural	Language	Processing
+601.466 Information	Retrieval	and	Web	Agents
+601.475 Introduction	to	Machine	Learning
+601.476 Machine	Learning:	Data	to	Models
+601.482 Machine	Learning:	Deep	Learning
+601.485 Probabilistic	Models	of	the	Visual	Cortex
+Course	
+Number Course	Name
+Biomedical	
+Data	
+Science
+Imaging &
+Medical
+Devices
+Computational	
+Medicine
+Immuno-	
+engineering
+Genomics	
+&	Systems	
+Biology
+Neuro-	
+engineering
+Translational	
+Cell	&	Tissue	
+Engineering
+601.723 Advanced	Topics	in	Data-Intensive	Computing
+670.619 Fundamentals	of	Physics	and	Chemistry	in	Nanoparticles
